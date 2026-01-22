@@ -1,0 +1,27 @@
+PROJECT: Simple To-Do List
+
+1. REQUIREMENTS
+   - Add a task
+   - View all tasks
+   - Simple text-based program
+
+2. DESIGN
+   - Use a list to store tasks
+   - Function: add_task()
+   - Function: view_tasks()
+
+3. IMPLEMENTATION
+   - See todo.py file
+
+4. TESTING
+   - Test adding 1 task - works!
+   - Test adding 3 tasks - works!
+   - Test viewing tasks - works!
+
+5. DEPLOYMENT
+   - Uploaded to GitHub
+   - Run with: python todo.py
+
+6. MAINTENANCE
+   - Future: add delete task feature
+   - Future: save tasks to file
